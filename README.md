@@ -1,4 +1,4 @@
-## Bike Data Project by Rosalie El Ouardi
+## Udacity Bike Data Project by Rosalie El Ouardi
 
 ### Introduction
 
